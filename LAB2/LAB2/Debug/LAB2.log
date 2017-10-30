@@ -1,0 +1,5 @@
+﻿  LAB2.cpp
+d:\office in nyu\cs6133 - computer architecture\lab2\lab2-c++\lab2\lab2\lab2.cpp(141): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\office in nyu\cs6133 - computer architecture\lab2\lab2-c++\lab2\lab2\lab2.cpp(370): warning C4553: '==': operator has no effect; did you intend '='?
+  LAB2.vcxproj -> D:\Office in NYU\CS6133 - Computer Architecture\Lab2\LAB2-C++\LAB2\Debug\LAB2.exe
+  LAB2.vcxproj -> D:\Office in NYU\CS6133 - Computer Architecture\Lab2\LAB2-C++\LAB2\Debug\LAB2.pdb (Full PDB)
