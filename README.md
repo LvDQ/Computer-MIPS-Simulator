@@ -44,3 +44,9 @@ should add to or customize.
 
 For more information, please move to file "Lab 1"
 
+
+
+
+
+Add Lab2 and Lab3 which are the really easy part. 
+——Oct 31, 2017
